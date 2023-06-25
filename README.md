@@ -1,2 +1,2 @@
 # AzureRestaurantappservice
-Azure capstone project-Simplilearn
+Azure capstone project by Abdul
